@@ -1,17 +1,13 @@
 <img width=100% src="https://t3.ftcdn.net/jpg/04/29/99/88/240_F_429998837_c5rmqMs41EJnpXqcFMQMjcLA42cDnaJF.jpg"/>
 
-
-
 <h1 align="center">Olá! Eu sou Tardelli Dias 👋</h1>
 
-
- <h2>Sobre mim</h2> 
+<h2>Sobre mim</h2> 
 Estudante de Ciência de Dados e amante de TI.
 
 <h2>Redes Sociais</h2>
 
 <div style="display: flex">
-<br>
 
 <!--
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tardelli-dias)
