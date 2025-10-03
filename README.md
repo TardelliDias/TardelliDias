@@ -6,6 +6,7 @@
 Estudante de Ciência de Dados e amante de TI.
 
 <h2>Redes Sociais</h2>
+<br>
 
 <div style="display: flex">
 
