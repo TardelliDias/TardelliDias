@@ -1,4 +1,4 @@
-<img width=100% src="https://t3.ftcdn.net/jpg/04/29/99/88/240_F_429998837_c5rmqMs41EJnpXqcFMQMjcLA42cDnaJF.jpg"/>
+<img width=100% src="img_github.png"/>
 
 <h1 align="center">Olá! Eu sou Tardelli Dias 👋</h1>
 
