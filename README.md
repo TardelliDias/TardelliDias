@@ -26,6 +26,8 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/TardelliDias)&nbsp;
 
 [![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/dias.tardelli)
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 </div>
 -->
 <h2>Habilidades</h2>
@@ -33,11 +35,11 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <div style="display: flex">
 <br>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
 
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)&nbsp;
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)&nbsp;
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
@@ -59,7 +61,7 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <h2>Sistema operacional</h2>
 <div style="display: flex">
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)&nbsp;
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 </div>
