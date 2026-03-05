@@ -68,6 +68,6 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 
 <h2>Conecte-se comigo</h2>
 
-E-mail: tardelli.ti.brasil@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/tardelli-dias/ <br>
-Discord: https://discord.com/users/tardellif
+**E-mail:** tardelli.ti.brasil@gmail.com <br>
+**LinkedIn:** https://www.linkedin.com/in/tardelli-dias/ <br>
+**Discord:** https://discord.com/users/tardellif
