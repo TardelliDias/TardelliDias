@@ -22,16 +22,7 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 
 🚀 Acredito no aprendizado contínuo como ferramenta de transformação — e estou sempre pronto para o próximo desafio!
 
-<h2>Redes Sociais</h2>
-<br>
-
-<div style="display: flex">
-
 <!--
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tardelli-dias)
-
-flat-square - plastic - flat
-
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/TardelliDias)&nbsp;
 
 [![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/dias.tardelli)
@@ -42,9 +33,9 @@ flat-square - plastic - flat
 <div style="display: flex">
 <br>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=blue)&nbsp;
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 
