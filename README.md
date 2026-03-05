@@ -33,11 +33,11 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <div style="display: flex">
 <br>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
@@ -59,9 +59,9 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <h2>Sistema operacional</h2>
 <div style="display: flex">
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 </div>
 
 <h2>Conecte-se comigo</h2>
