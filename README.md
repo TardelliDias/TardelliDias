@@ -1,9 +1,26 @@
 <img width=100% src="img_github.png"/>
 
-<h1 align="center">Olá! Eu sou Tardelli Dias 👋</h1>
+<h1 align="center">👋 Olá! Seja bem-vindo ao meu perfil</h1>
 
 <h2>Sobre mim</h2> 
-Estudante de Ciência de Dados e amante de TI.
+
+Sou estudante de Data Science e atualmente estou em transição de carreira para a área de Tecnologia da Informação. Estou construindo minha trajetória com muito foco, disciplina e uma enorme vontade de aprender e evoluir constantemente.
+
+Tenho conhecimentos em:
+
+💻 Programação
+
+☁️ Computação em Nuvem
+
+🗄️ Bancos de Dados
+
+🔐 Segurança da Informação
+
+Meu principal interesse está nas áreas de Machine Learning e Inteligência Artificial, onde busco aprofundar meus estudos e aplicar soluções baseadas em dados para resolver problemas reais.
+
+Estou em busca de oportunidades na área de TI que me permitam crescer profissionalmente, contribuir com projetos desafiadores e continuar expandindo meus conhecimentos em tecnologia e inovação.
+
+🚀 Acredito no aprendizado contínuo como ferramenta de transformação — e estou sempre pronto para o próximo desafio!
 
 <h2>Redes Sociais</h2>
 <br>
@@ -20,9 +37,10 @@ flat-square - plastic - flat
 
 [![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/TardelliDias)&nbsp;
 
+<!--
 [![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/dias.tardelli)
 </div>
-
+-->
 <h2>Habilidades</h2>
 
 <div style="display: flex">
@@ -34,13 +52,12 @@ flat-square - plastic - flat
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 
+<!--
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-
-<!--
 
 ![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
 
