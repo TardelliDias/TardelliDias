@@ -35,11 +35,11 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <div style="display: flex">
 <br>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)&nbsp;
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)&nbsp;
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
@@ -61,7 +61,7 @@ Estou em busca de oportunidades na área de TI que me permitam crescer profissio
 <h2>Sistema operacional</h2>
 <div style="display: flex">
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 </div>
