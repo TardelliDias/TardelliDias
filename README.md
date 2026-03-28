@@ -1,73 +1,90 @@
-<img width=100% src="img_github.png"/>
+# 👋 Olá, eu sou Tardelli Dias
 
-<h1 align="center">👋 Olá! Seja bem-vindo ao meu perfil</h1>
+🎯 Em transição de carreira para **Ciência de Dados**
+📊 Focado em **Análise de Dados, Machine Learning e Cloud Computing**
+☁️ Estudando **AWS, SQL, Python e Engenharia de Dados**
 
-<h2>Sobre mim</h2> 
+---
 
-Sou estudante de Data Science e atualmente estou em transição de carreira para a área de Tecnologia da Informação. Estou construindo minha trajetória com muito foco, disciplina e uma enorme vontade de aprender e evoluir constantemente.
+## 🚀 Sobre mim
 
-Tenho conhecimentos em:
+Atualmente sou estudante de **Data Science** e participante do programa **Oracle Next Education (ONE)**, com foco em formação sólida em tecnologia.
 
-💻 Programação
+Tenho experiência profissional em ambiente operacional crítico, o que me proporcionou forte capacidade de **resolução de problemas, tomada de decisão e pensamento analítico** — habilidades que aplico na área de dados.
 
-☁️ Computação em Nuvem
+📌 Atualmente estou desenvolvendo projetos práticos para construir um portfólio sólido em Ciência de Dados.
 
-🗄️ Bancos de Dados
+---
 
-🔐 Segurança da Informação
+## 🧠 Tecnologias e Ferramentas
 
-Meu principal interesse está nas áreas de Machine Learning e Inteligência Artificial, onde busco aprofundar meus estudos e aplicar soluções baseadas em dados para resolver problemas reais.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-Estou em busca de oportunidades na área de TI que me permitam crescer profissionalmente, contribuir com projetos desafiadores e continuar expandindo meus conhecimentos em tecnologia e inovação.
+---
 
-🚀 Acredito no aprendizado contínuo como ferramenta de transformação — e estou sempre pronto para o próximo desafio!
+## 📊 Estatísticas do GitHub
 
-<!--
-[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/TardelliDias)&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TardelliDias\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TardelliDias\&layout=compact\&theme=tokyonight)
 
-[![instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/dias.tardelli)
+---
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-</div>
--->
-<h2>Habilidades</h2>
+## 📚 Formação
 
-<div style="display: flex">
-<br>
+* 🎓 Tecnólogo em Data Science (em andamento)
+* 💻 Oracle Next Education (ONE) – Tech Advanced
+* ☁️ AWS re/Start
+* 🗄️ Administrador de Banco de Dados – IFRS
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+---
 
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)
+## 📌 Projetos em destaque
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+🚧 Em construção 🚧
 
-<!--
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
-![FireBase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass)
-![Styled-Component](https://img.shields.io/badge/StyledComponent-000?style=for-the-badge&logo=styledComponents)
+🔜 Em breve:
 
-</div>
+* Análise de dados com SQL
+* Dashboard em Power BI
+* Projetos de Machine Learning
+* Projetos com AWS
 
-<div  align="center">
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TardelliDias&layout=compact&langs_count=7&theme=react)
+## 🏅 Certificações & Badges
 
-</div>
--->
-<h2>Sistema operacional</h2>
-<div style="display: flex">
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge\&logo=amazonaws)
+![Oracle](https://img.shields.io/badge/Oracle-ONE%20Program-F80000?style=for-the-badge\&logo=oracle)
+![Cisco](https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=for-the-badge\&logo=cisco)
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
+---
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-</div>
+## 🌎 Idiomas
 
-<h2>Conecte-se comigo</h2>
+* 🇺🇸 Inglês: Básico (A2)
+* 🇪🇸 Espanhol: Intermediário (B1)
 
-**E-mail:** tardelli.ti.brasil@gmail.com <br>
-**LinkedIn:** https://www.linkedin.com/in/tardelli-dias/ <br>
-**Discord:** https://discord.com/users/tardellif
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tardelli-dias/
+* 📧 Email: tardelli.ti.brasil@gmail.com
+* 💬 Discord: https://discord.com/users/tardellif
+
+---
+
+## ⚡ Objetivo
+
+Busco minha primeira oportunidade na área de **Ciência de Dados**, aplicando análise de dados, programação e cloud para gerar insights e soluções eficientes.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
