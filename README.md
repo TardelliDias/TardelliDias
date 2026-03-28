@@ -31,9 +31,12 @@ Tenho experiência profissional em ambiente operacional crítico, o que me propo
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TardelliDias\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TardelliDias\&layout=compact\&theme=tokyonight)
+<!--https://github-readme-stats.vercel.app/api?username=TardelliDias
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TardelliDias&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TardelliDias&layout=compact&theme=tokyonight&cache_seconds=1800)
+-->
 ---
 
 ## 📚 Formação
