@@ -42,6 +42,8 @@ Tenho experiência profissional em ambiente operacional crítico, o que me propo
 * 🎓 Tecnólogo em Data Science (em andamento)
 * 💻 Oracle Next Education (ONE) – Turma G9
 * 💻 Oracle Next Education (ONE) – Turma G10 - Tech Builder
+* ☁️ AWS Certified Cloud Practitioner 
+* ☁️ OCI Foundations Associate
 * ☁️ AWS re/Start
 
 ---
