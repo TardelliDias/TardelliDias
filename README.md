@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Tardelli Dias
 
 🎯 Em transição de carreira para **Ciência de Dados**
-📊 Focado em **Análise de Dados, Machine Learning e Cloud Computing**
-☁️ Estudando **AWS, SQL, Python e Engenharia de Dados**
+📊 Focado em **Machine Learning e Cloud Computing**
+☁️ Estudando **AWS, OCI, SQL, Python e Engenharia de Dados**
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente sou estudante de **Data Science** e participante do programa **Oracle Next Education (ONE)**, com foco em formação sólida em tecnologia.
+Atualmente sou estudante do curso superior **Tecnólogo em Ciência de Dados** e participante do programa **Oracle Next Education (ONE) Turma G9 - Especialização em Data Science e Turma G10 - Especialista em Inteligência Artificial**.
 
 Tenho experiência profissional em ambiente operacional crítico, o que me proporcionou forte capacidade de **resolução de problemas, tomada de decisão e pensamento analítico** — habilidades que aplico na área de dados.
 
@@ -20,10 +20,8 @@ Tenho experiência profissional em ambiente operacional crítico, o que me propo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
@@ -42,9 +40,9 @@ Tenho experiência profissional em ambiente operacional crítico, o que me propo
 ## 📚 Formação
 
 * 🎓 Tecnólogo em Data Science (em andamento)
-* 💻 Oracle Next Education (ONE) – Tech Advanced
+* 💻 Oracle Next Education (ONE) – Turma G9
+* 💻 Oracle Next Education (ONE) – Turma G10 - Tech Builder
 * ☁️ AWS re/Start
-* 🗄️ Administrador de Banco de Dados – IFRS
 
 ---
 
@@ -55,7 +53,6 @@ Tenho experiência profissional em ambiente operacional crítico, o que me propo
 🔜 Em breve:
 
 * Análise de dados com SQL
-* Dashboard em Power BI
 * Projetos de Machine Learning
 * Projetos com AWS
 
